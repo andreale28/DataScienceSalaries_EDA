@@ -5,3 +5,4 @@ In this project, we use the Data Science Job Salaries from Kaggle and perform ED
 has some drawback which is mainly due to the limitation of hvplot in terms of annotation (displaying value label on chart .etc)
 
 To view the graphs of notebook, please select this [NBViewer](https://nbviewer.org/github/andreale28/DataScienceSalaries_EDA/blob/master/EDA_DS_Salaries.ipynb) 
+
